@@ -396,7 +396,7 @@
     </levels>
     <folder name="Cast" type="default">
       <levels>
-        <level id='1'/><level id='4'/><level id='3'/><level id='2'/>
+        <level id='4'/><level id='3'/><level id='1'/><level id='2'/>
       </levels>
       </folder>
     <folder name="Audio">
@@ -473,10 +473,10 @@
             6 2 <level id='2'/>0004 0 
           </cell>
           <cell>
-            8 3 <level id='2'/>0005 0 
+            8 4 <level id='2'/>0005 1 
           </cell>
           <cell>
-            11 5 <level id='2'/>0006 0 
+            12 4 <level id='2'/>0008 0 
           </cell>
           </cells>
         <fx>
@@ -676,21 +676,116 @@
         <status>
           0 
         </status>
+        <x>
+          <default>
+            0 
+          </default>
+          <keyframes>
+            <L>
+              4 0 
+            </L>
+            </keyframes>
+          </x>
+        <y>
+          <default>
+            0 
+          </default>
+          <keyframes>
+            <L>
+              4 0 
+            </L>
+            </keyframes>
+          </y>
+        <z>
+          <default>
+            0 
+          </default>
+          <keyframes>
+            <L>
+              4 0 
+            </L>
+            </keyframes>
+          </z>
+        <so>
+          <default>
+            0 
+          </default>
+          <keyframes>
+            <L>
+              4 0 
+            </L>
+            </keyframes>
+          </so>
         <sx>
           <default>
             1 
           </default>
+          <keyframes>
+            <L>
+              4 1 
+            </L>
+            </keyframes>
           </sx>
         <sy>
           <default>
             1 
           </default>
+          <keyframes>
+            <L>
+              4 1 
+            </L>
+            </keyframes>
           </sy>
         <sc>
           <default>
             1 
           </default>
+          <keyframes>
+            <L>
+              4 1 
+            </L>
+            </keyframes>
           </sc>
+        <rot>
+          <default>
+            0 
+          </default>
+          <keyframes>
+            <L>
+              4 0 
+            </L>
+            </keyframes>
+          </rot>
+        <pos>
+          <default>
+            0 
+          </default>
+          <keyframes>
+            <L>
+              4 0 
+            </L>
+            </keyframes>
+          </pos>
+        <shx>
+          <default>
+            0 
+          </default>
+          <keyframes>
+            <L>
+              4 0 
+            </L>
+            </keyframes>
+          </shx>
+        <shy>
+          <default>
+            0 
+          </default>
+          <keyframes>
+            <L>
+              4 0 
+            </L>
+            </keyframes>
+          </shy>
         <nodePos>
           24620 25450 
         </nodePos>
@@ -733,10 +828,10 @@
     <fxnodes>
       <terminal>
         <fxnode>
-          <Toonz_columnFx id='10'/>
+          <Toonz_columnFx id='8'/>
         </fxnode>
         <fxnode>
-          <Toonz_columnFx id='8'/>
+          <Toonz_columnFx id='10'/>
         </fxnode>
         <fxnode>
           <Toonz_columnFx id='6'/>
@@ -811,5 +906,6 @@
     "| #5   01 Mar 25   20:15   COLIN       mrcol           |"
     "| #6   02 Mar 25   01:25   COLIN       mrcol           |"
     "| #7   02 Mar 25   01:56   COLIN       mrcol           |"
+    "| #8   02 Mar 25   12:50   DESKTOP-J8J4mrcol           |"
   </history>
   </tnz>
