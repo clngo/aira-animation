@@ -396,7 +396,7 @@
     </levels>
     <folder name="Cast" type="default">
       <levels>
-        <level id='4'/><level id='3'/><level id='1'/><level id='2'/>
+        <level id='3'/><level id='1'/><level id='2'/><level id='4'/>
       </levels>
       </folder>
     <folder name="Audio">
@@ -407,7 +407,7 @@
       <levelColumn id='5'>
         
         <status>
-          3 
+          1 
         </status>
         <camerastand_opacity>
           79 
@@ -510,7 +510,7 @@
       <levelColumn id='9'>
         
         <status>
-          0 
+          1 
         </status>
         <cells>
           <cell>
@@ -828,13 +828,13 @@
     <fxnodes>
       <terminal>
         <fxnode>
-          <Toonz_columnFx id='8'/>
+          <Toonz_columnFx id='6'/>
         </fxnode>
         <fxnode>
           <Toonz_columnFx id='10'/>
         </fxnode>
         <fxnode>
-          <Toonz_columnFx id='6'/>
+          <Toonz_columnFx id='8'/>
         </fxnode>
         </terminal>
       <xsheet>
@@ -906,6 +906,9 @@
     "| #5   01 Mar 25   20:15   COLIN       mrcol           |"
     "| #6   02 Mar 25   01:25   COLIN       mrcol           |"
     "| #7   02 Mar 25   01:56   COLIN       mrcol           |"
-    "| #8   02 Mar 25   12:50   DESKTOP-J8J4mrcol           |"
+    "| #8   02 Mar 25   12:51   DESKTOP-J8J4mrcol           |"
+    "| #9   02 Mar 25   17:07   DESKTOP-J8J4mrcol           |"
+    "| #10  03 Mar 25   00:11   DESKTOP-J8J4mrcol           |"
+    "| #11  03 Mar 25   02:25   DESKTOP-J8J4mrcol           |"
   </history>
   </tnz>
